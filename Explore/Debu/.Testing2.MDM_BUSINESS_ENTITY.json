@@ -1,0 +1,40 @@
+{
+  "objectInfo" : {
+    "id" : "1ll5k2DuQElkMGTrQWdVcp",
+    "name" : "Testing2",
+    "type" : "MDM_BUSINESS_ENTITY",
+    "providerName" : "MDM",
+    "providerLevelValidator" : {
+      "solutionsToValidate" : { },
+      "additionalSolutionsInSource" : {
+        "b360" : {
+          "version" : "202510.01"
+        },
+        "c360" : {
+          "version" : "202510.01"
+        }
+      },
+      "vaderMigrationStatus" : "NOT_STARTED"
+    },
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 1
+      },
+      "repoInfo" : {
+        "repoHandle" : "testing2"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "updateTime" : "2025-09-03T04:36:27.580Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
