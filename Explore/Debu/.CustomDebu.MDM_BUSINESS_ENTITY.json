@@ -33,7 +33,7 @@
     }
   },
   "dataFileExtension" : "dat",
-  "updateTime" : "2025-09-03T14:37:39.993Z",
+  "updateTime" : "2025-09-05T14:37:28.558Z",
   "objectRefs" : [ {
     "id" : "9Vbk6wLqrOEdkwpmCu7E63",
     "name" : "Default",
@@ -100,6 +100,39 @@
       }
     },
     "path" : "/Explore/Customer360"
+  }, {
+    "id" : "43gqXRl2eHaci5ZiPwj96b",
+    "name" : "sad",
+    "type" : "MDM_BUSINESS_ENTITY",
+    "providerName" : "MDM",
+    "providerLevelValidator" : {
+      "solutionsToValidate" : {
+        "b360" : {
+          "version" : "202510.01"
+        },
+        "c360" : {
+          "version" : "202510.01"
+        }
+      },
+      "additionalSolutionsInSource" : { },
+      "vaderMigrationStatus" : "NOT_STARTED"
+    },
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 1
+      },
+      "repoInfo" : {
+        "repoHandle" : "sad"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/Explore/CAIPoc"
   }, {
     "id" : "hJvS1TppMQ8crr1duiMAm6",
     "name" : "testDedupBE",
