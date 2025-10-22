@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "0S6pjNU0Ln3bgmwCyawAmY",
+    "name" : "MDMFlowFileImportDQ",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "Tk08jIw8jIw8jIw-gt-7401-2025-06-24T07:29:52.729Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-10-22T07:34:20.596Z",
+  "objectRefs" : [ {
+    "id" : "3CzM8KJaWGIh7JEqRnPlwB",
+    "name" : "MDMFlowFileImportDQInternal",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "CqtdoSxCS7FdpOf-gt-6720-2025-06-24T07:29:52.461Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Customer360"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
