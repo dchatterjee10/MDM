@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "0ul5GKUB3gYgdvMwk4HTwN",
-    "name" : "Testing2",
+    "id" : "43gqXRl2eHaci5ZiPwj96b",
+    "name" : "sad",
     "type" : "MDM_BUSINESS_ENTITY",
     "providerName" : "MDM",
     "providerLevelValidator" : {
@@ -22,12 +22,12 @@
         "minor" : 1
       },
       "repoInfo" : {
-        "repoHandle" : "testing2_20250903061521904223"
+        "repoHandle" : "sad"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }

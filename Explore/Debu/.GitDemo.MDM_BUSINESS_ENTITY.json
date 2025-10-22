@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "0ul5GKUB3gYgdvMwk4HTwN",
-    "name" : "Testing2",
+    "id" : "aTZFiWhw3OPgDgTmxvvHsE",
+    "name" : "GitDemo",
     "type" : "MDM_BUSINESS_ENTITY",
     "providerName" : "MDM",
     "providerLevelValidator" : {
@@ -22,18 +22,18 @@
         "minor" : 1
       },
       "repoInfo" : {
-        "repoHandle" : "testing2_20250903061521904223"
+        "repoHandle" : "gitdemo"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "dat",
-  "updateTime" : "2025-10-22T07:54:30.409Z",
+  "updateTime" : "2025-10-22T07:54:30.408Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false

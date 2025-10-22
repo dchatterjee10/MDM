@@ -5,8 +5,7 @@
     "type" : "MDM_BUSINESS_ENTITY",
     "providerName" : "MDM",
     "providerLevelValidator" : {
-      "solutionsToValidate" : { },
-      "additionalSolutionsInSource" : {
+      "solutionsToValidate" : {
         "b360" : {
           "version" : "202510.01"
         },
@@ -14,6 +13,7 @@
           "version" : "202510.01"
         }
       },
+      "additionalSolutionsInSource" : { },
       "vaderMigrationStatus" : "NOT_STARTED"
     },
     "metadata" : {
@@ -33,7 +33,7 @@
     }
   },
   "dataFileExtension" : "dat",
-  "updateTime" : "2025-09-05T14:47:28.517Z",
+  "updateTime" : "2025-10-22T07:54:30.409Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false
